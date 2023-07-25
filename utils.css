@@ -1,0 +1,28 @@
+.name{
+    color:#ec3818;
+      text-align: center;
+    }
+    .greeting{
+      text-align: center;
+    }
+    .representation{color: #1bc3e4;
+      text-align: center;
+    }
+    .bg{ border: 0.1rem solid black;
+        max-width: 250px;
+        padding: 0.5rem 0rem;
+        border-radius: 0.5rem;
+        margin: auto;
+        background-color: #2090d994;
+      
+      
+    }
+    .fl{
+      display: flex;
+    }
+    .fl-cl{
+      flex-direction: column;
+    }
+    .center{
+      align-items: center;
+    }
